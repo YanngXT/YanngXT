@@ -2,11 +2,11 @@
 
 📧 contact：202000300137@mail.sdu.edu.cn
 
-<a href="/README.html">中文版本</a>
+<a href="README.html">中文版本</a>
 
 
 
-<img src="主页个人图.26c89e25.jpg"  style="width:50%;" >
+<img src="主页个人图.26c89e25.jpg"  style="align:center; width:50%;" >
 
 ### Learn More
 
