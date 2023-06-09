@@ -14,6 +14,7 @@
 <p>🌱github：<a style="color:#476f83" href="https://github.com/yanngxt">https://github.com/yanngxt</a></p>
 <p>🌱CSDN：<a style="color:#476f83" href="https://blog.csdn.net/m0_52414727">https://blog.csdn.net/m0_52414727</a></p>
 <p>🌱luogu：<a style="color:#476f83" href="https://www.luogu.com.cn/blog/Yang-xia-Xuetong/">https://www.luogu.com.cn/blog/Yang-xia-Xuetong/</a></p>
+<p>🌱其他：<a style="color:#476f83" href="https://yanngxt.github.io/">https://yanngxt.github.io/</a></p>
 
 ## 喜欢的方向
 <p>✨ 深度学习</p> 
@@ -96,6 +97,7 @@
 <p>🌱github：<a style="color:#476f83" href="https://github.com/yanngxt">https://github.com/yanngxt</a></p>
 <p>🌱CSDN：<a style="color:#476f83" href="https://blog.csdn.net/m0_52414727">https://blog.csdn.net/m0_52414727</a></p>
 <p>🌱luogu：<a style="color:#476f83" href="https://www.luogu.com.cn/blog/Yang-xia-Xuetong/">https://www.luogu.com.cn/blog/Yang-xia-Xuetong/</a></p>
+<p>🌱other：<a style="color:#476f83" href="https://yanngxt.github.io/">https://yanngxt.github.io/</a></p>
 
 ## Interests
 
