@@ -8,9 +8,6 @@
 
 📧 联系方式：202000300137@mail.sdu.edu.cn
 
-<a href="\index-en.html">English Version</a>
-
-
 <img src="主页个人图.26c89e25.jpg"  style="align:center; width:50%;" >
 
 ## 相关指路
@@ -90,8 +87,6 @@
 # 👋 Welcome to Xuetong Yang's HomePage!
 
 📧 contact：202000300137@mail.sdu.edu.cn
-
-
 
 <img src="主页个人图.26c89e25.jpg"  style="align:center; width:50%;" >
 
