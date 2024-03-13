@@ -34,54 +34,6 @@
 <p>在系统学习多媒体计算课程后，在学院孟老师的指导下于2022年10月至2023年1月进行直播视频商品推荐模型的项目开发。模型使用fasterRCNN进行图片特征提取，使用包含BiLSTM在内多种文本处理模型进行文本特征提取，并使用BPR模型进行最终推荐，取得了较好的效果，得到了老师的高度评价。</p>
 
 
-## 学习经历
-✅山东大学 · 软件学院 · 软件工程专业
-
-✅成绩排名：13/333（专业前3.9%）
-
-✅相关课程：高级程序设计语言(99)、线性代数(94)、离散数学(92)、C++程序设计(95)、概率与统计(98)、计算机组织与结构(95)、数据结构(96)、机器学习基础(94)、深度学习及应用(96)、高级机器学习(92)、信息检索(98)、智能机器人与算法设计(99)、数据分析与挖掘(95)、知识表示与处理(95)、多媒体计算(95)
-
-## 社团爱好
-<p>🧀校园经历：山东大学软件学院学生会·宣传部成员</p>
-<p>🧁校园经历：山东大学WEILAB实验室·科研助手</p>
-<p>🥐校园经历：山东大学唐仲英爱心社·新闻中心成员</p>
-<p>🍰校园经历：山软智库·科研部部长</p>
-<p>🍩兴趣爱好：电子琴、钢琴、甜品、乒乓球（虽然很菜但是欢迎约球）、动漫、v家（永远喜欢天依！）</p>
-
-## 一些奖项列举
-
-    🏅山东大学学业奖一等（2021年12月）
-    
-    🏅山东大学特长奖一等（社会服务类）（2021年12月）
-    
-    🏅山东大学三好学生（2021年12月）
-    
-    🏅山东大学学业奖一等（2022年10月）	
-    
-    🏅军训优秀学员（2021年7月）	
-    
-    🏅山东大学优秀共青团员（2021年5月）	
-    
-    🏅全国大学生数学建模竞赛山东赛区一等奖（2022年11月）
-    
-    🏅全国大学生数学建模竞赛山东赛区二等奖（2021年10月）
-    
-    🏅山东大学第八届“互联网+”大学生创新创业大赛优胜奖（2022年8月）
-    
-    🏅山东大学程序设计精英挑战赛（高年级组）三等奖（2021年11月）
-    
-    🏅2020级学生军训七营演讲比赛一等奖（2021年7月）
-    
-    🏅山东大学程序设计竞赛新生挑战赛二等奖（2020年11月）	
-    
-    🏅2020级新生军训演讲比赛二等奖（2021年7月）	
-    
-    🏅山软智库优秀库员（2021年4月）
-    
-    🏅2022美国大学生数学建模竞赛S奖（2022年4月）	
-    
-    🏅山东大学优秀共青团员（2023年5月）
-    
 
 
 <p id="2"></p>
@@ -136,33 +88,7 @@
 <p>🍰Campus experience: Head of the Research Department, Shansoft Think Tank, Shandong University</p>
 <p>🍩Hobbies and interests: Electronic keyboard, piano, desserts, table tennis (although not very good at it, always open to playing), anime, and Vocaloid (forever a fan of Tianyi!)</p>
 
-## Some prizes and honors
 
-    🏅First-class Academic Award, Shandong University (December 2021)
-
-    🏅First-class Special Award for Social Service, Shandong University (December 2021)
-
-    🏅Excellent Student Award, Shandong University (December 2021)
-
-    🏅First-class Academic Award, Shandong University (October 2022)
-
-    🏅Outstanding Communist Youth League Member, Shandong University (May 2021)	
-
-    🏅First Prize, National College Student Mathematical Modeling Competition, Shandong Division (November 2022)
-
-    🏅Second Prize, National College Student Mathematical Modeling Competition, Shandong Division (October 2021)
-
-    🏅Excellent Prize, Shandong University's 8th "Internet+" College Students' Innovation and Entrepreneurship Competition (August 2022)
-
-    🏅Third Prize, Shandong University Programming Elite Challenge (Senior Group) (November 2021)
-
-    🏅Second Prize, Shandong University Programming Competition for Freshmen (November 2020)
-
-    🏅Outstanding Member of Shansoft Think Tank, Shandong University (April 2021)
-
-    🏅S Award, 2022 Mathematical Contest in Modeling, United States (April 2022)
-
-    🏅Outstanding Communist Youth League Member, Shandong University (May 2023)
 
 <!--
 **YanngXT/YanngXT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
