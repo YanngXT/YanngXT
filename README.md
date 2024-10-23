@@ -19,12 +19,11 @@
 ## 喜欢的方向
 <p>✨ 深度学习</p> 
 <p>✨ 自然语言处理</p>
-<p>✨ 生物信息方向</p>
 
 ## 研究经历
 <p>👩‍🔬 抗癌肽的识别：<a href='https://pubs.acs.org/doi/10.1021/acs.jcim.3c00297'>CACPP: A Contrastive Learning-Based Siamese Network to Identify Anticancer Peptides Based on Sequence Only</a></p>
 <p>👩‍ 蛋白质与多肽结合估计与位点预测</p> 
-<p>🧠 目前正在看增量学习的内容，欢迎一起讨论~</p>
+<p>🧠 目前正在看Transformer学习的内容，欢迎一起讨论~</p>
 
 ## 项目经历
 <h3>古代玻璃制品的成分分析及鉴别模型</h3>
