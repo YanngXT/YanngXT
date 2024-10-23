@@ -6,7 +6,7 @@
 
 # 👋欢迎来到杨雪桐的个人主页！
 
-📧 联系方式：202000300137@mail.sdu.edu.cn
+📧 联系方式：yanngxt@gmail.com
 
 <img src="主页个人图.26c89e25.jpg"  style="align:center; width:50%;" >
 
@@ -54,7 +54,6 @@
 
 <p>✨ Deep Learning</p> 
 <p>✨ NLP</p>
-<p>✨ Bioinformatics</p>
 
 ## Research Experience
 
